@@ -1,0 +1,3 @@
+../Core/Src/random.c:14:6:random_init	2
+../Core/Src/random.c:26:10:random_get	1
+../Core/Src/random.c:41:10:random_range	2

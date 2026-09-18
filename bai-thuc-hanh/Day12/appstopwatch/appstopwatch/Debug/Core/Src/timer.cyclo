@@ -1,0 +1,3 @@
+../Core/Src/timer.c:11:6:timer_init	1
+../Core/Src/timer.c:16:10:timer_get_tick	1
+../Core/Src/timer.c:20:6:timer_expired	2

@@ -1,0 +1,2 @@
+../Core/Src/collision.c:11:6:collision_wall	24	static
+../Core/Src/collision.c:19:6:collision_food	24	static

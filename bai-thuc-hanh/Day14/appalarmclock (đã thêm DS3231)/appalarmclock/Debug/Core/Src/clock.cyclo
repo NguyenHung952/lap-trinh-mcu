@@ -1,0 +1,10 @@
+../Core/Src/clock.c:19:6:clock_set_time	1
+../Core/Src/clock.c:23:6:clock_get_time	1
+../Core/Src/clock.c:30:6:clock_update	4
+../Core/Src/clock.c:42:6:clock_init	1
+../Core/Src/clock.c:50:6:clock_hour_up	2
+../Core/Src/clock.c:61:6:clock_hour_down	2
+../Core/Src/clock.c:74:6:clock_minute_up	2
+../Core/Src/clock.c:85:6:clock_minute_down	2
+../Core/Src/clock.c:98:6:clock_second_up	2
+../Core/Src/clock.c:109:6:clock_second_down	2

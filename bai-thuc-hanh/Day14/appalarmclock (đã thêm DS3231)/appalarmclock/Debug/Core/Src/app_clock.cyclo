@@ -1,0 +1,13 @@
+../Core/Src/app_clock.c:79:6:app_clock_init	2
+../Core/Src/app_clock.c:129:6:app_clock_process	12
+../Core/Src/app_clock.c:215:13:app_process_normal	3
+../Core/Src/app_clock.c:240:13:app_rtc_read_and_update_clock	2
+../Core/Src/app_clock.c:258:13:app_rtc_save_after_time_setting	2
+../Core/Src/app_clock.c:286:13:app_temperature_update	3
+../Core/Src/app_clock.c:307:13:app_process_set_hour	3
+../Core/Src/app_clock.c:324:13:app_process_set_minute	3
+../Core/Src/app_clock.c:341:13:app_process_set_second	3
+../Core/Src/app_clock.c:358:13:app_process_set_alarm_hour	3
+../Core/Src/app_clock.c:375:13:app_process_set_alarm_minute	3
+../Core/Src/app_clock.c:392:13:app_process_set_alarm_enable	3
+../Core/Src/app_clock.c:409:13:alarm_input_update	3

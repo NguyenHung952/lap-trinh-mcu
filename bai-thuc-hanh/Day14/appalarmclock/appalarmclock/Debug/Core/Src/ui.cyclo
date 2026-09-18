@@ -1,0 +1,12 @@
+../Core/Src/ui.c:50:6:ui_init	1
+../Core/Src/ui.c:55:6:ui_update	8
+../Core/Src/ui.c:101:13:ui_show_time	1
+../Core/Src/ui.c:117:13:ui_show_normal	1
+../Core/Src/ui.c:128:13:ui_show_set_hour	1
+../Core/Src/ui.c:140:13:ui_show_set_minute	1
+../Core/Src/ui.c:152:13:ui_show_set_second	1
+../Core/Src/ui.c:164:13:ui_show_status	1
+../Core/Src/ui.c:175:13:ui_show_alarm	2
+../Core/Src/ui.c:189:13:ui_show_set_alarm_hour	1
+../Core/Src/ui.c:201:13:ui_show_set_alarm_minute	1
+../Core/Src/ui.c:213:13:ui_show_set_alarm_enable	1

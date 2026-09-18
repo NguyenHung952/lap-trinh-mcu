@@ -1,0 +1,11 @@
+../Core/Src/game.c:26:13:game_find_random_food_position	32	static
+../Core/Src/game.c:52:13:game_find_free_cell	32	static
+../Core/Src/game.c:73:13:game_spawn_food	24	static
+../Core/Src/game.c:112:6:game_init	16	static
+../Core/Src/game.c:128:6:game_update	16	static
+../Core/Src/game.c:169:6:game_set_direction	16	static
+../Core/Src/game.c:182:6:game_is_over	16	static
+../Core/Src/game.c:192:6:game_is_completed	16	static
+../Core/Src/game.c:202:10:game_get_score	16	static
+../Core/Src/game.c:212:16:game_get_snake	16	static
+../Core/Src/game.c:222:15:game_get_food	16	static

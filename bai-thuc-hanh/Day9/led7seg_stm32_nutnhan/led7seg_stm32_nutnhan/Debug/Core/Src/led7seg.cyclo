@@ -1,0 +1,6 @@
+../Core/Src/led7seg.c:53:6:SendBitLED	2
+../Core/Src/led7seg.c:64:6:SendByte	2
+../Core/Src/led7seg.c:72:6:KhoidongLED	1
+../Core/Src/led7seg.c:83:6:Ketthuc	1
+../Core/Src/led7seg.c:94:6:DisplayDigit	1
+../Core/Src/led7seg.c:105:6:LED_display	1

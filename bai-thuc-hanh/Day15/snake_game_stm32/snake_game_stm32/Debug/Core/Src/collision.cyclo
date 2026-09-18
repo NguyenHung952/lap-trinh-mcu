@@ -1,0 +1,2 @@
+../Core/Src/collision.c:11:6:collision_wall	1
+../Core/Src/collision.c:19:6:collision_food	4

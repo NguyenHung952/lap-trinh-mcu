@@ -1,0 +1,4 @@
+../Core/Src/lcd_renderer.c:38:15:cgram_find_pattern	4
+../Core/Src/lcd_renderer.c:64:15:cgram_allocate_slot	3
+../Core/Src/lcd_renderer.c:87:6:lcd_renderer_init	1
+../Core/Src/lcd_renderer.c:92:6:lcd_renderer_update	6

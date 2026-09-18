@@ -1,0 +1,2 @@
+../Core/Src/render.c:15:6:render_init	3
+../Core/Src/render.c:34:6:render_update	4

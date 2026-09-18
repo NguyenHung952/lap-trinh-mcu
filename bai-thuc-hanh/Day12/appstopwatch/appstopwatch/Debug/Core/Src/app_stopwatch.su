@@ -1,0 +1,8 @@
+../Core/Src/app_stopwatch.c:52:6:app_stopwatch_init	8	static
+../Core/Src/app_stopwatch.c:66:6:app_stopwatch_process	8	static
+../Core/Src/app_stopwatch.c:83:13:stopwatch_reset	8	static
+../Core/Src/app_stopwatch.c:89:13:stopwatch_read_button	8	static
+../Core/Src/app_stopwatch.c:104:13:stopwatch_update_state	16	static
+../Core/Src/app_stopwatch.c:152:13:stopwatch_update_time	8	static
+../Core/Src/app_stopwatch.c:165:13:stopwatch_update_display	40	static
+../Core/Src/app_stopwatch.c:237:13:stopwatch_update_led	8	static

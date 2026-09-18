@@ -1,0 +1,9 @@
+../Core/Src/snake.c:10:6:snake_init	1
+../Core/Src/snake.c:23:6:snake_set_direction	9
+../Core/Src/snake.c:37:6:snake_move	8
+../Core/Src/snake.c:69:6:snake_grow	2
+../Core/Src/snake.c:82:6:snake_check_self_collision	5
+../Core/Src/snake.c:101:6:snake_is_occupied	4
+../Core/Src/snake.c:117:23:snake_get_head	1
+../Core/Src/snake.c:122:23:snake_get_segment	2
+../Core/Src/snake.c:133:9:snake_get_length	1

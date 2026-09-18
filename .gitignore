@@ -1,0 +1,30 @@
+# STM32 / STM32CubeIDE
+**/Debug/
+**/Release/
+**/build/
+**/Build/
+
+# Generated binaries / build objects
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.su
+*.cyclo
+
+# IDE metadata
+**/.settings/
+.metadata/
+*.launch
+
+# Temporary / OS files
+*.tmp
+*.temp
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*~

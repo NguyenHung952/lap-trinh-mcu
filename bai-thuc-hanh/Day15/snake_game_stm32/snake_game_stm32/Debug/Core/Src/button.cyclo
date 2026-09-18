@@ -1,5 +1,0 @@
-../Core/Src/button.c:22:9:button_read_bit	1
-../Core/Src/button.c:30:6:button_load_parallel	1
-../Core/Src/button.c:36:6:button_clock_pulse	3
-../Core/Src/button.c:47:9:Read74HC165	3
-../Core/Src/button.c:66:9:ButtonPressed	1

@@ -1,8 +1,0 @@
-../Core/Src/app_stopwatch.c:52:6:app_stopwatch_init	1
-../Core/Src/app_stopwatch.c:66:6:app_stopwatch_process	1
-../Core/Src/app_stopwatch.c:83:13:stopwatch_reset	1
-../Core/Src/app_stopwatch.c:89:13:stopwatch_read_button	3
-../Core/Src/app_stopwatch.c:104:13:stopwatch_update_state	10
-../Core/Src/app_stopwatch.c:152:13:stopwatch_update_time	3
-../Core/Src/app_stopwatch.c:165:13:stopwatch_update_display	7
-../Core/Src/app_stopwatch.c:237:13:stopwatch_update_led	5

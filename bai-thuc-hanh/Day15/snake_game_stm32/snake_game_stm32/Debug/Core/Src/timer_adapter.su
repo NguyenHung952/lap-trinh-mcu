@@ -1,3 +1,0 @@
-../Core/Src/timer_adapter.c:21:6:timer_adapter_init	8	static
-../Core/Src/timer_adapter.c:33:6:timer_adapter_tick	4	static
-../Core/Src/timer_adapter.c:38:6:timer_adapter_poll	4	static

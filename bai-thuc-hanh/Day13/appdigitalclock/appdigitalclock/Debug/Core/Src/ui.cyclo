@@ -1,8 +1,0 @@
-../Core/Src/ui.c:43:6:ui_init	1
-../Core/Src/ui.c:48:6:ui_update	5
-../Core/Src/ui.c:80:13:ui_show_time	1
-../Core/Src/ui.c:93:13:ui_show_normal	1
-../Core/Src/ui.c:104:13:ui_show_set_hour	1
-../Core/Src/ui.c:116:13:ui_show_set_minute	1
-../Core/Src/ui.c:128:13:ui_show_set_second	1
-../Core/Src/ui.c:140:13:ui_show_status	1

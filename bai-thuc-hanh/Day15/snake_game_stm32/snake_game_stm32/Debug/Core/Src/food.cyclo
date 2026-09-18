@@ -1,4 +1,0 @@
-../Core/Src/food.c:10:6:food_init	1
-../Core/Src/food.c:17:6:food_set_position	1
-../Core/Src/food.c:26:6:food_hide	1
-../Core/Src/food.c:31:6:food_is_active	1

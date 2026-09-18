@@ -1,7 +1,0 @@
-../Core/Src/menu.c:33:6:menu_init	1
-../Core/Src/menu.c:38:13:menu_get_state	1
-../Core/Src/menu.c:43:6:menu_process	5
-../Core/Src/menu.c:73:13:menu_normal	2
-../Core/Src/menu.c:86:13:menu_set_hour	2
-../Core/Src/menu.c:99:13:menu_set_minute	2
-../Core/Src/menu.c:112:13:menu_set_second	2

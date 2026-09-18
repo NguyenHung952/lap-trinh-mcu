@@ -1,6 +1,0 @@
-../Core/Src/led7seg.c:53:6:SendBitLED	16	static
-../Core/Src/led7seg.c:64:6:SendByte	24	static
-../Core/Src/led7seg.c:72:6:KhoidongLED	8	static
-../Core/Src/led7seg.c:83:6:Ketthuc	8	static
-../Core/Src/led7seg.c:94:6:DisplayDigit	16	static
-../Core/Src/led7seg.c:105:6:LED_display	24	static

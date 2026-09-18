@@ -1,2 +1,0 @@
-../Core/Src/render.c:15:6:render_init	16	static
-../Core/Src/render.c:34:6:render_update	24	static

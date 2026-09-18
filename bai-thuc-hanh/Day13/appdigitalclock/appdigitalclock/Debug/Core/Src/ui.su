@@ -1,8 +1,0 @@
-../Core/Src/ui.c:43:6:ui_init	4	static
-../Core/Src/ui.c:48:6:ui_update	8	static
-../Core/Src/ui.c:80:13:ui_show_time	32	static
-../Core/Src/ui.c:93:13:ui_show_normal	8	static
-../Core/Src/ui.c:104:13:ui_show_set_hour	8	static
-../Core/Src/ui.c:116:13:ui_show_set_minute	8	static
-../Core/Src/ui.c:128:13:ui_show_set_second	8	static
-../Core/Src/ui.c:140:13:ui_show_status	16	static

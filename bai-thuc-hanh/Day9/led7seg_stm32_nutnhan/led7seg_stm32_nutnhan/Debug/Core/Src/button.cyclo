@@ -1,5 +1,0 @@
-../Core/Src/button.c:18:9:ReadBit	1
-../Core/Src/button.c:24:6:LoadButton	1
-../Core/Src/button.c:30:6:ClockPulse	3
-../Core/Src/button.c:41:9:Read74HC165	3
-../Core/Src/button.c:60:9:ButtonPressed	1
